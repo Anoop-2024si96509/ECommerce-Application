@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+backend/data/
+
+# Build outputs
+dist/
+build/
+
+# Documentation & generated files (not code)
+*.docx
+~$*
+*.rtf
+documentation/
+tools/
+DELIVERABLES.md
+DOCUMENTATION_INDEX.md
+PROJECT_SUMMARY.md
+QUICK_REFERENCE.md
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
