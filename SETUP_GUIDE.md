@@ -18,14 +18,6 @@ This complete e-commerce application includes:
 - 18+ source files
 - Professional UI/UX
 
-### ✅ Documentation (5 Documents)
-- System design overview
-- Logical architecture with diagrams
-- ER model with database schema
-- Getting started guide
-- This complete guide
-
----
 
 ## 🚀 Installation (5 Minutes)
 
@@ -278,23 +270,8 @@ frontend/
         └── CartContext.js           # Cart state
 ```
 
-### Documentation Files
 
-```
-documentation/
-├── SYSTEM_DESIGN.md                 # Complete system overview
-├── LOGICAL_ARCHITECTURE.md          # Architecture details
-├── ER_MODEL.md                      # Database schema
-└── GETTING_STARTED.md               # Installation guide
 
-Root:
-├── README.md                        # Project overview
-├── PROJECT_SUMMARY.md               # What was created
-├── QUICK_REFERENCE.md               # Quick reference guide
-└── SETUP_GUIDE.md                   # This file
-```
-
----
 
 ## 🔍 Verifying Installation
 
